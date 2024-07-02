@@ -3,19 +3,21 @@ import React from 'react';
 import { CATEGORIES } from '../data/dummy-data';
 import CategoryGrid from '../components/CategoryGrid';
 
-export default function CategoriesScreen({ navigation }) {  // Correctly destructure navigation here
+export default function CategoriesScreen({ navigation }) {
   function renderCategoryItem(itemData) {
     function pressHandler() {
-      navigation.navigate('FoodOverView',{
+      navigation.navigate('FoodOverview', {
         categoryId: itemData.item.id,
       });
     }
 
+    console.log(itemData.item);
     return (
-      <CategoryGrid 
+      <CategoryGrid
         title={itemData.item.title}
         color={itemData.item.color}
-        pressFood={pressHandler} />
+        pressFood={pressHandler}
+      />
     );
   }
 
