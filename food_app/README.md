@@ -1,0 +1,6 @@
+![Screenshot_1719990455](https://github.com/Ahmetkanadli/React-Native-Learning-Projects/assets/94637438/a2bd88e2-58e6-4062-bf0d-e04bb1bb84b5)
+![Screenshot_1719990526](https://github.com/Ahmetkanadli/React-Native-Learning-Projects/assets/94637438/beea5ed6-2d6d-4ae0-9f6b-98820a256204)
+![Screenshot_1719990547](https://github.com/Ahmetkanadli/React-Native-Learning-Projects/assets/94637438/b299710e-bc99-4b24-a815-6e5ca1975ec9)
+![Screenshot_1719990551](https://github.com/Ahmetkanadli/React-Native-Learning-Projects/assets/94637438/ea48409f-e450-4819-bdaf-89ab542b7591)
+![Screenshot_1719990560](https://github.com/Ahmetkanadli/React-Native-Learning-Projects/assets/94637438/e9e35403-84ce-49fb-878e-6c7541b15f2c)
+![Screenshot_1719990562](https://github.com/Ahmetkanadli/React-Native-Learning-Projects/assets/94637438/36970a7f-a120-4ad2-a905-9d690a7c0f0f)
